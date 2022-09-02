@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println();
 
-        Square sqr = new Square(10);
+        Square sqr = new Square(15);
         System.out.println("Square Length: " + sqr.getLength());
         System.out.println("Square Area: " + sqr.squareAea());
 
